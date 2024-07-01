@@ -1,7 +1,11 @@
 {
   "mongo": {
-    "url": "mongodb://localhost/openhim-development",
-    "atnaUrl": "mongodb://localhost/openhim-development"
+    "urlOld": "mongodb://localhost/openhim-development",
+    "atnaUrlOld": "mongodb://localhost/openhim-development",
+    
+    "url": "mongodb+srv://admin:w-jZ36HVxuz.H47@cluster0.cyrbcae.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/openhim",
+    "atnaUrl": "mongodb+srv://admin:w-jZ36HVxuz.H47@cluster0.cyrbcae.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/openhim"
+    
   },
   "logger": {
     "level": "debug"
