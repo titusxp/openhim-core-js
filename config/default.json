@@ -1,11 +1,11 @@
 {
   "bindAddress": "0.0.0.0",
   "mongo": {
-    "urlOld": "mongodb://localhost/openhim",
-    "atnaUrlOld": "mongodb://localhost/openhim",
+    "url": "mongodb://localhost/openhim",
+    "atnaUrl": "mongodb://localhost/openhim",
 
-    "url": "mongodb+srv://admin:w-jZ36HVxuz.H47@cluster0.cyrbcae.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/openhim",
-    "atnaUrl": "mongodb+srv://admin:w-jZ36HVxuz.H47@cluster0.cyrbcae.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/openhim",
+    "urlold": "mongodb+srv://admin:w-jZ36HVxuz.H47@cluster0.cyrbcae.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/openhim",
+    "atnaUrlOld": "mongodb+srv://admin:w-jZ36HVxuz.H47@cluster0.cyrbcae.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/openhim",
     
     "connectionOptions": {},
     "openHIMApiReadPreference": "primaryPreferred",
