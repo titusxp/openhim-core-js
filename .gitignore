@@ -25,3 +25,4 @@ coverage.lcov
 .data
 coverage/
 DockerfileARM
+/.vs
